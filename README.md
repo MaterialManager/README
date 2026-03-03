@@ -13,4 +13,6 @@ Questions to ask:
 - would you like employees to be tracked within different job sites in our web app?
 - when materials are called to a job site are they returned to a warehouse if they arent used?
 - how are materials within the job site being tracked?
+- who is responsible for checking if order parts came in accurately (quantity and physical health)
+- is this an accurate database parts table: parts_id - part_name - part_price - part_description - QTY #
 
